@@ -1,4 +1,4 @@
-package es.aeat.mio.curso;
+package es.aeat.mio.big;
 
 import java.math.BigDecimal;
 import java.math.MathContext;
